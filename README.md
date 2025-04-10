@@ -5,8 +5,8 @@
 
 ### 1.初识R
 #### 1.1.画一个简单的图形
-![pic1](/imgs/pic1.png)
-![pic2](/imgs/pic2.png)
+<img src="/imgs/pic1.png" alt="pic1" width="500" ><br>
+<img src="/imgs/pic2.png" alt="pic2" width="500" ><br>
 ### 2.一些其他的常见数学函数
 #### 2.1.绝对值和平方根
 #### 2.2.对数函数与指数函数
